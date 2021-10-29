@@ -1,0 +1,7 @@
+venv
+*.zip
+*.ipynb_checkpoints
+.ipynb_checkpoints
+*.db
+*.pkl
+models/classifier.pkl
